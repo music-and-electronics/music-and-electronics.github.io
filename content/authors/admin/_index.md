@@ -6,8 +6,8 @@ title: Jonghyun Kim
 name_pronunciation: Jonghyun Kim
 
 # Full name (for SEO)
-first_name: Jonghyun
-last_name: Kim
+# first_name: Jonghyun
+# last_name: Kim
 
 # Status emoji
 status:
