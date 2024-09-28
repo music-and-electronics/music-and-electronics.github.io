@@ -1,5 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
+title: Jonghyun Kim
+
 design:
   # Default section spacing
   spacing: "6rem"
