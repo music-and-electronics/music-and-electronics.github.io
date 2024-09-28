@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jonghyun Kim
+title: 
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: Jonghyun Kim
 
 # Full name (for SEO)
 first_name: Jonghyun
