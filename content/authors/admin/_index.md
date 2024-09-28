@@ -3,11 +3,11 @@
 title: Jonghyun Kim
 
 # Name pronunciation (optional)
-name_pronunciation: Jonghyun Kim
+name_pronunciation: 
 
 # Full name (for SEO)
-# first_name: Jonghyun
-# last_name: Kim
+first_name: Jonghyun
+last_name: Kim
 
 # Status emoji
 status:
