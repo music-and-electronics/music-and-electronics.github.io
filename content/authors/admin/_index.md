@@ -164,4 +164,4 @@ languages:
 
 ## About Me
 
-Jonghyun Kim is currently a Ph.D student in the EECS lab at Carnegie Mellon University. His research interests include secure RF data converters, mixed-signal machine learning accelerators, ADC-DSP based SerDes, and hardware security circuits(TRNG, PUF). You can visit his website for further information: music-and-electronics.github.io
+Jonghyun Kim is currently a Ph.D student in the EECS lab at Carnegie Mellon University. His research interests include secure RF data converters, mixed-signal machine learning accelerators, ADC-DSP based SerDes, and hardware security circuits(TRNG, PUF). 
