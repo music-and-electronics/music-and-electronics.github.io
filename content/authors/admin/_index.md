@@ -165,4 +165,4 @@ languages:
 
 ## About Me
 
-Jonghyun Kim received his B.S.(admission with honors) and M.S. degree in Electronics and Electrical Engineering from Konkuk University, Seoul, Korea. He is currently a Ph.D student in the EECS lab at Carnegie Mellon University. His research interests include secure RF data converters, low-power fully homomorphic encryption, ADC-DSP based SerDes, and hardware security circuits(TRNG, PUF).
+Jonghyun Kim received his B.S.(admission with honors) and M.S. degree in Electronics and Electrical Engineering from Konkuk University, Seoul, Korea. He is currently a Ph.D student in the EECS lab at Carnegie Mellon University. His research interests include secure RF data converters, low-power fully homomorphic encryption, ADC-DSP based SerDes, and hardware security circuits(TRNG, PUF). You can visit his website for further information: music-and-electronics.github.io
