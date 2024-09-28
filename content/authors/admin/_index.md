@@ -47,37 +47,24 @@ interests:
   - Hardware Security
 
 education:
-  - area: PhD Electrical and Computer Engineering
+  - area: Ph.D in Electrical and Computer Engineering
     institution: Carnegie Mellon University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-01
+    date_end: TBD
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Working toward Ph.D degree at Carnegie Mellon University
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S & M.S in Electrical Engineering
+    institution: Konkuk University
+    date_start: 2016-03
+    date_end: 2023-12
     summary: |
-      GPA: 3.8/4.0
+      Admission with highest-honor 
+      B.S. GPA: 4.05/4.5, M.S. GPA: 4.37/4.5
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -178,4 +165,4 @@ languages:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jonghyun Kim received his B.S.(admission with honors) and M.S. degree in Electronics and Electrical Engineering from Konkuk University, Seoul, Korea. He is currently a Ph.D student in the EECS lab at Carnegie Mellon University. His research interests include secure RF data converters, low-power fully homomorphic encryption, ADC-DSP based SerDes, and hardware security circuits(TRNG, PUF).
